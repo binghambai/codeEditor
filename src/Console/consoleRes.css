@@ -1,0 +1,18 @@
+.console-context {
+    width: 544px;
+    height: 568px;
+    padding: 20px;
+    /*background-color: #61dafb;*/
+    border-radius: 5px;
+    border: solid 2px #f7f7f7;
+    border-right-width: 2px;
+}
+
+.console-log {
+    width: 502px;
+    height: 525px;
+    padding: 10px;
+    border: 0px;
+    /*background-color: #61dafb;*/
+    outline: none;
+}

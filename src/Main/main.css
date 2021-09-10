@@ -1,0 +1,10 @@
+
+.left-border {
+    width: 34px;
+    height: 566px;
+    margin-left: 16px;
+    background-color: #ececec;
+    border-radius: 5px;
+    border: 1px solid #f7f7f7;
+    border-left-width: 0;
+}

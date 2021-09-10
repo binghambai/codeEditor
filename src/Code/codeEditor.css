@@ -1,0 +1,17 @@
+.editor {
+    width: 845px;
+    /*padding: px;*/
+    padding-right: 3px;
+    height: 568px;
+    border-radius: 5px;
+    border: solid 2px #f7f7f7;
+    /*border-right: solid 2px #f7f7f7;*/
+}
+
+.code {
+    /*padding: 20px;*/
+    font-size : 20px;
+    font-weight: bold;
+    line-height : 150%;
+
+}

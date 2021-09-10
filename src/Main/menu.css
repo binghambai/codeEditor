@@ -1,0 +1,26 @@
+
+.language {
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.bt-run{
+    margin-top: 20px;
+    margin-left: -73px;
+    width: 80px;
+    height: 40px;
+    background-color: #97b757;
+    color: white;
+    border-radius: 5px;
+    border: white;
+    font-size: 18px;
+}
+.bt-run:hover {
+    background-color: #9db381;
+    border: solid 1px #c1d2b7;
+}
+
+.h4-console {
+    margin-left: 379px;
+    margin-top: 28px;
+}
